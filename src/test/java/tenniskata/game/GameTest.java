@@ -1,4 +1,4 @@
-package tenniskata;
+package tenniskata.game;
 
 import org.junit.jupiter.api.Test;
 import tenniskata.common.Player;

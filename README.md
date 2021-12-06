@@ -56,8 +56,8 @@ To win a tie-break game, a player must score :
 ## Win a set
 
 To win a set, a player must win :
-   • at least 6 games
-   • 2 more games than the opponent
+   - at least 6 games
+   - 2 more games than the opponent
    
 ~~### Tie-break~~
 
